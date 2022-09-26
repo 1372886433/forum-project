@@ -1,0 +1,107 @@
+{
+  "id": "3546169",
+  "name": "myproject",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13638708",
+      "name": "发送",
+      "font_class": "fasong",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "5022335",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "9810108",
+      "name": "分享",
+      "font_class": "fenxiang_2",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9974408",
+      "name": "踩",
+      "font_class": "cai",
+      "unicode": "e701",
+      "unicode_decimal": 59137
+    },
+    {
+      "icon_id": "9974420",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e702",
+      "unicode_decimal": 59138
+    },
+    {
+      "icon_id": "673799",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
+    {
+      "icon_id": "2076192",
+      "name": " 消息",
+      "font_class": "xiaoxi",
+      "unicode": "e86f",
+      "unicode_decimal": 59503
+    },
+    {
+      "icon_id": "2675007",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "5790733",
+      "name": "事务动态",
+      "font_class": "xingxing",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "13900681",
+      "name": "写",
+      "font_class": "ziyuan",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "4118038",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "eb6a",
+      "unicode_decimal": 60266
+    },
+    {
+      "icon_id": "1330569",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e73b",
+      "unicode_decimal": 59195
+    },
+    {
+      "icon_id": "1330571",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e73c",
+      "unicode_decimal": 59196
+    },
+    {
+      "icon_id": "1330577",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e73e",
+      "unicode_decimal": 59198
+    }
+  ]
+}

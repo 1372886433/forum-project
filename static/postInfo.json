@@ -1,0 +1,42 @@
+{
+	"p1": {
+		"id": 1,
+		"name": "用户1",
+		"head": "/static/image/head1.jpeg",
+		"content": "首页",
+		"image": "",
+		"time": "8月25日 上午 10:41"
+	},
+	"p2": {
+		"id": 2,
+		"name": "用户2",
+		"head": "/static/image/head2.jpeg",
+		"content": "测试",
+		"image": "",
+		"time": "8月25日 上午 10:41"
+	},
+	"p3": {
+		"id": 3,
+		"name": "用户3",
+		"head": "/static/image/head3.jpeg",
+		"content": "可爱的仓鼠",
+		"image": "/static/image/content1.jpeg",
+		"time": "8月25日 上午 10:41"
+	},
+	"p4": {
+		"id": 4,
+		"name": "用户4",
+		"head": "/static/image/head4.jpeg",
+		"content": "正文",
+		"image": "",
+		"time": "8月25日 上午 10:41"
+	},
+	"p5": {
+		"id": 5,
+		"name": "用户5",
+		"head": "/static/image/head5.jpeg",
+		"content": "内容",
+		"image": "/static/image/content2.jpeg",
+		"time": "8月25日 上午 10:41"
+	}
+}
